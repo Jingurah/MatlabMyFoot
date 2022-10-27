@@ -1,2 +1,2 @@
 # MatlabMyFoot
-Some Matlag
+Some Matlab
